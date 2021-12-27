@@ -1,5 +1,5 @@
 """
-Assingment_1
+Simple problems
 """
 print(__doc__)
 
